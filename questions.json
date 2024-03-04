@@ -1,5 +1,5 @@
 {
-  "sport": [
+  "userQuiz": [
     {
       "category": "Sport",
       "subcategory": "Cricket",
@@ -73,9 +73,7 @@
           "answer": "Alan Shearer"
         }
       ]
-    }
-  ],
-  "entertainment": [
+    },
     {
       "category": "Entertainment",
       "subcategory": "Movie",

@@ -1,0 +1,21 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who wrote 'The Great Gatsby'?",
+      "options": [
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway",
+        "Mark Twain",
+        "Harper Lee"
+      ],
+      "answer": "F. Scott Fitzgerald"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for oxygen?",
+      "options": ["O", "O2", "O3", "OH"],
+      "answer": "O"
+    }
+  ]
+}

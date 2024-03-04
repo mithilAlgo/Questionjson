@@ -1,8 +1,8 @@
 {
   "userQuiz": [
     {
-      "category": "Sport",
-      "subcategory": "Cricket",
+      "category": "sport",
+      "subcategory": "cricket",
       "fees":100,
       "winamount":1000,
       "question": [
@@ -43,8 +43,8 @@
       ]
     },
     {
-      "category": "Sport",
-      "subcategory": "Football",
+      "category": "sport",
+      "subcategory": "football",
       "fees":200,
       "winamount":2000,
       "question": [
@@ -79,8 +79,8 @@
       ]
     },
     {
-      "category": "Entertainment",
-      "subcategory": "Movie",
+      "category": "entertainment",
+      "subcategory": "movie",
       "fees":300,
       "winamount":3000,
       "question": [

@@ -3,6 +3,8 @@
     {
       "category": "Sport",
       "subcategory": "Cricket",
+      "fees":100,
+      "winamount":1000,
       "question": [
         {
           "id": 1,
@@ -43,6 +45,8 @@
     {
       "category": "Sport",
       "subcategory": "Football",
+      "fees":200,
+      "winamount":2000,
       "question": [
         {
           "id": 1,
@@ -77,6 +81,8 @@
     {
       "category": "Entertainment",
       "subcategory": "Movie",
+      "fees":300,
+      "winamount":3000,
       "question": [
         {
           "id": 1,

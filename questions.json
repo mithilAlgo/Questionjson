@@ -5,6 +5,7 @@
       "subcategory": "cricket",
       "fees":100,
       "winamount":1000,
+      "img":"https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/game.png",
       "question": [
         {
           "id": 1,

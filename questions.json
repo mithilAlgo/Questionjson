@@ -5,7 +5,7 @@
       "subcategory": "cricket",
       "fees":100,
       "winamount":1000,
-      "img":"https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/game.png",
+      "img":"https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/sport_img.jpg",
       "question": [
         {
           "id": 1,
@@ -47,7 +47,8 @@
       "category": "sport",
       "subcategory": "football",
       "fees":200,
-      "winamount":2000,
+      "win amount":2000,
+      "img":"https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/sport_img.jpg",
       "question": [
         {
           "id": 1,

@@ -5,7 +5,7 @@
       "subcategory": "cricket",
       "fees":100,
       "winamount":1000,
-      "img":"https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/sport_img.jpg",
+      "img":"https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/sport.png",
       "question": [
         {
           "id": 1,
@@ -48,7 +48,7 @@
       "subcategory": "football",
       "fees":200,
       "win amount":2000,
-      "img":"https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/sport_img.jpg",
+      "img":"https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/sport.png",
       "question": [
         {
           "id": 1,
@@ -85,6 +85,7 @@
       "subcategory": "movie",
       "fees":300,
       "winamount":3000,
+       "img":"https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/entertainment.png",
       "question": [
         {
           "id": 1,

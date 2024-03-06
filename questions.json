@@ -47,7 +47,7 @@
       "category": "sport",
       "subcategory": "football",
       "fees":200,
-      "win amount":2000,
+      "winamount":2000,
       "img":"https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/sport.png",
       "question": [
         {

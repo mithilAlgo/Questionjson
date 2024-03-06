@@ -3,9 +3,9 @@
     {
       "category": "sport",
       "subcategory": "cricket",
-      "fees":100,
-      "winamount":1000,
-      "img":"https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/sport.png",
+      "fees": 100,
+      "winamount": 1000,
+      "img": "https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/sport.png",
       "question": [
         {
           "id": 1,
@@ -40,15 +40,76 @@
             "MS Dhoni"
           ],
           "answer": "Ajinkya Rahane"
+        },
+        {
+          "id": 5,
+          "question": "In which country was the first cricket World Cup held?",
+          "options": ["England", "Australia", "West Indies", "South Africa"],
+          "answer": "England"
+        },
+        {
+          "id": 6,
+          "question": "Who is the only Indian to have scored a triple century in Test cricket?",
+          "options": [
+            "Sachin Tendulkar",
+            "Virender Sehwag",
+            "K. L. Rahul",
+            "Rohit Sharma"
+          ],
+          "answer": "Virender Sehwag"
+        },
+        {
+          "id": 7,
+          "question": "Who is the highest wicket-taker in Test cricket?",
+          "options": [
+            "Anil Kumble",
+            "Shane Warne",
+            "Muttiah Muralitharan",
+            "James Anderson"
+          ],
+          "answer": "Muttiah Muralitharan"
+        },
+        {
+          "id": 8,
+          "question": "What is the term used for a score of 111 runs in cricket?",
+          "options": [
+            "A hat-trick",
+            "A century",
+            "A double-century",
+            "A Nelson"
+          ],
+          "answer": "A Nelson"
+        },
+        {
+          "id": 9,
+          "question": "Who is the first Indian cricketer to hit a century in all three formats of international cricket?",
+          "options": [
+            "Sachin Tendulkar",
+            "Virender Sehwag",
+            "MS Dhoni",
+            "Suresh Raina"
+          ],
+          "answer": "Suresh Raina"
+        },
+        {
+          "id": 10,
+          "question": "Which cricketer is known as 'The Wall' for his strong defensive batting skills?",
+          "options": [
+            "Sachin Tendulkar",
+            "Rahul Dravid",
+            "VVS Laxman",
+            "Sourav Ganguly"
+          ],
+          "answer": "Rahul Dravid"
         }
       ]
     },
     {
       "category": "sport",
       "subcategory": "football",
-      "fees":200,
-      "winamount":2000,
-      "img":"https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/sport.png",
+      "fees": 200,
+      "winamount": 2000,
+      "img": "https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/sport.png",
       "question": [
         {
           "id": 1,
@@ -77,48 +138,830 @@
             "Sergio Agüero"
           ],
           "answer": "Alan Shearer"
+        },
+        {
+          "id": 4,
+          "question": "In which year was the first FIFA World Cup held?",
+          "options": ["1928", "1930", "1934", "1938"],
+          "answer": "1930"
+        },
+        {
+          "id": 5,
+          "question": "Which country has won the most FIFA World Cup titles?",
+          "options": ["Brazil", "Germany", "Italy", "Argentina"],
+          "answer": "Brazil"
+        },
+        {
+          "id": 6,
+          "question": "Who is the all-time top scorer in the UEFA Champions League?",
+          "options": [
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Raul",
+            "Karim Benzema"
+          ],
+          "answer": "Cristiano Ronaldo"
+        },
+        {
+          "id": 7,
+          "question": "Which country hosted the 2006 FIFA World Cup?",
+          "options": ["South Africa", "Germany", "Spain", "France"],
+          "answer": "Germany"
+        },
+        {
+          "id": 8,
+          "question": "Which club won the UEFA Champions League in 2021?",
+          "options": [
+            "Manchester City",
+            "Liverpool",
+            "Paris Saint-Germain",
+            "Chelsea"
+          ],
+          "answer": "Chelsea"
+        },
+        {
+          "id": 9,
+          "question": "Who is the current manager of the England national football team?",
+          "options": [
+            "Gareth Southgate",
+            "Jürgen Klopp",
+            "Pep Guardiola",
+            "Jose Mourinho"
+          ],
+          "answer": "Gareth Southgate"
+        },
+        {
+          "id": 10,
+          "question": "Which player holds the record for the most goals in a single UEFA Champions League season?",
+          "options": [
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Ferenc Puskás",
+            "Dixie Dean"
+          ],
+          "answer": "Cristiano Ronaldo"
         }
       ]
     },
     {
       "category": "entertainment",
       "subcategory": "movie",
-      "fees":300,
-      "winamount":3000,
-       "img":"https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/entertainment.png",
+      "fees": 300,
+      "winamount": 3000,
+      "img": "https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/entertainment.png",
       "question": [
         {
           "id": 1,
-          "question": "Who is known as the \"King Khan\" of Bollywood?",
+          "question": "What is the fee required to answer a question from this category?",
+          "options": ["100", "200", "300", "400"],
+          "answer": "300"
+        },
+        {
+          "id": 2,
+          "question": "Which actor is also known as 'King Khan' of Bollywood?",
           "options": [
             "Salman Khan",
             "Shah Rukh Khan",
             "Aamir Khan",
-            "Akshay Kumar"
+            "Saif Ali Khan"
           ],
           "answer": "Shah Rukh Khan"
         },
         {
-          "id": 2,
-          "question": "Which Bollywood film is often referred to as the \"Biggest Blockbuster of Indian Cinema\"?",
-          "options": [
-            "Dangal",
-            "Baahubali: The Conclusion",
-            "PK",
-            "Bajrangi Bhaijaan"
-          ],
+          "id": 3,
+          "question": "Which movie is often referred to as the biggest blockbuster of Indian cinema?",
+          "options": ["Dangal", "Baahubali: The Conclusion", "PK", "Sultan"],
           "answer": "Baahubali: The Conclusion"
         },
         {
-          "id": 3,
-          "question": "Which Bollywood actor is often called the \"Khiladi\" due to his roles in action films?",
+          "id": 4,
+          "question": "Which Bollywood star has played lead roles in multiple movies featuring 'Khiladi' in the title?",
           "options": [
-            "Salman Khan",
-            "Shah Rukh Khan",
-            "Aamir Khan",
-            "Akshay Kumar"
+            "Sanjay Dutt",
+            "Jackie Shroff",
+            "Akshay Kumar",
+            "Suniel Shetty"
           ],
           "answer": "Akshay Kumar"
+        },
+        {
+          "id": 5,
+          "question": "In the context of these questions, what does the term 'Blockbuster' usually signify?",
+          "options": [
+            "Critically acclaimed movie",
+            "Highest grossing movie",
+            "Musical hit song",
+            "Animation feature"
+          ],
+          "answer": "Highest grossing movie"
+        },
+        {
+          "id": 6,
+          "question": "Based on the number of questions and their distribution so far, how many more questions might follow related to other categories within Entertainment?",
+          "options": ["0", "1", "2", "3"],
+          "answer": "[Any reasonable estimate]"
+        },
+        {
+          "id": 7,
+          "question": "Considering only the first names mentioned in the options, how many unique male names appear across these five questions?",
+          "options": ["6", "7", "8", "9"],
+          "answer": "[Calculated response]"
+        },
+        {
+          "id": 8,
+          "question": "Assuming that each of these questions costs 300 rupees to attempt, approximately how much money should one expect to spend trying out just one random question from this group?",
+          "options": ["200", "250", "300", "350"],
+          "answer": "300"
+        },
+        {
+          "id": 9,
+          "question": "If we added two more similar sets of questions to our pool - say Sports (at 400 fees per question) and History (at 200 fees per question), then what would be the average cost per question for such an expanded quiz?",
+          "options": ["200", "250", "300", "350"],
+          "answer": "[Calculated response]"
+        },
+        {
+          "id": 10,
+          "question": "How do you think AI technologies like machine learning may impact the future development and administration of trivia games such as this one?",
+          "options": [
+            "It will make them easier to create.",
+            "It will automate scoring processes.",
+            "It can help generate new questions dynamically.",
+            "All of the above."
+          ],
+          "answer": "All of the above."
+        }
+      ]
+    },
+    {
+      "category": "technology",
+      "subcategory": "daily tech",
+      "fees": 400,
+      "winamount": 4000,
+      "img": "https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/entertainment.png",
+      "question": [
+        {
+          "id": 1,
+          "question": "Which programming language is also known as Golang?",
+          "options": ["Rust", "Go", "Swift", "Elixir"],
+          "answer": "Go"
+        },
+        {
+          "id": 2,
+          "question": "What company created the Linux operating system kernel?",
+          "options": ["IBM", "Microsoft", "Oracle", "Red Hat"],
+          "answer": "None of the above; Linus Torvalds started the project while he was studying computer science at the University of Helsinki."
+        },
+        {
+          "id": 3,
+          "question": "What type of network topology features devices connected in a circular layout?",
+          "options": ["Star", "Mesh", "Bus", "Ring"],
+          "answer": "Ring"
+        },
+        {
+          "id": 4,
+          "question": "What does HTTP stand for in web protocol terminology?",
+          "options": [
+            "Hypertext Transfer Protocol",
+            "Highway Traffic Prediction",
+            "Home Terminal Procedure",
+            "Horizontal Temporal Programming"
+          ],
+          "answer": "Hypertext Transfer Protocol"
+        },
+        {
+          "id": 5,
+          "question": "Which software giant acquired GitHub in October 2018?",
+          "options": [
+            "Google",
+            "Amazon Web Services",
+            "Microsoft",
+            "Apple Inc."
+          ],
+          "answer": "Microsoft"
+        },
+        {
+          "id": 6,
+          "question": "Which country developed the Advanced Encryption Standard (AES)?",
+          "options": ["Germany", "France", "United States", "Japan"],
+          "answer": "The United States through NIST (National Institute of Standards and Technology)"
+        },
+        {
+          "id": 7,
+          "question": "What does SSD represent in computing hardware?",
+          "options": [
+            "Super Scalable Drive",
+            "Smart Solid Disc",
+            "Secure Silicon Device",
+            "Solid State Drive"
+          ],
+          "answer": "Solid State Drive"
+        },
+        {
+          "id": 8,
+          "question": "What unit represents the amount of memory capacity used when storing digital images?",
+          "options": [
+            "Terabyte (TB)",
+            "Petabyte (PB)",
+            "Pixel (px)",
+            "Gigapixel (GP)"
+          ],
+          "answer": "Megapixel (MP)"
+        },
+        {
+          "id": 9,
+          "question": "What internet domain extension is reserved for organizations involved in academic research and education?",
+          "options": [".edu", ".org", ".net", ".ac"],
+          "answer": ".edu"
+        },
+        {
+          "id": 10,
+          "question": "What coding paradigm focuses on objects interacting with one another using messages rather than actions defined explicitly by methods?",
+          "options": [
+            "Functional Programming",
+            "Imperative Programming",
+            "Object-Oriented Programming",
+            "Message Passing Paradigm"
+          ],
+          "answer": "Message Passing Paradigm"
+        }
+      ]
+    },
+    {
+      "category": "technology",
+      "subcategory": "aerospace",
+      "fees": 400,
+      "winamount": 4000,
+      "img": "https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/entertainment.png",
+      "question": [
+        {
+          "id": 1,
+          "question": "Who invented the liquid fueled rocket engine in 1926?",
+          "options": [
+            "Wernher von Braun",
+            "Sergei Korolev",
+            "John Glenn",
+            "Robert Goddard"
+          ],
+          "answer": "Robert Goddard"
+        },
+        {
+          "id": 2,
+          "question": "Which organization manages commercial space travel regulation in the US since 2004?",
+          "options": ["NASA", "FAA", "FBI", "FEMA"],
+          "answer": "FAA"
+        },
+        {
+          "id": 3,
+          "question": "What is the name of SpaceX's interplanetary transport architecture designed to carry people and cargo between planets?",
+          "options": [
+            "Intergalactic Starship System",
+            "Deep Space Transportation Network",
+            "Space Internetwork Architecture",
+            "Starship Interplanetary Transport System"
+          ],
+          "answer": "Starship Interplanetary Transport System"
+        },
+        {
+          "id": 4,
+          "question": "What was the Soviet Union's first artificial Earth satellite launched into orbit in 1957?",
+          "options": ["Vostok 1", "Sputnik 1", "Luna 1", "Mars 1"],
+          "answer": "Sputnik 1"
+        },
+        {
+          "id": 5,
+          "question": "Which nation successfully landed its Chang'e 4 mission on the Moon's far side in January 2019?",
+          "options": ["China", "India", "USA", "European Union"],
+          "answer": "China"
+        },
+        {
+          "id": 6,
+          "question": "At which altitude does the International Space Station (ISS) orbit around the Earth?",
+          "options": [
+            "100 miles / 160 km",
+            "250 miles / 400 km",
+            "500 miles / 800 km",
+            "1,000 miles / 1,600 km"
+          ],
+          "answer": "Approximately 250 miles / 400 km"
+        },
+        {
+          "id": 7,
+          "question": "Who became the first American astronaut to orbit the Earth aboard Friendship 7 in February 1962?",
+          "options": [
+            "Neil Armstrong",
+            "Alan Shepard",
+            "John Glenn",
+            "Gus Grissom"
+          ],
+          "answer": "John Glenn"
+        },
+        {
+          "id": 8,
+          "question": "What is the primary difference between sounding rockets and orbital ones?",
+          "options": [
+            "Payload capability",
+            "Reusability",
+            "Flight duration",
+            "Altitude reached"
+          ],
+          "answer": "Altitude reached"
+        },
+        {
+          "id": 9,
+          "question": "Which private entity received approval from FAA in July 2021 to fly passengers on suborbital spaceflights?",
+          "options": [
+            "Blue Origin",
+            "SpaceX",
+            "Richard Branson's Virgin Galactic",
+            "Jeff Bezos' Blue Origin"
+          ],
+          "answer": "Richard Branson's Virgin Galactic"
+        },
+        {
+          "id": 10,
+          "question": "Which countries collaboratively built the Ariane 5 launch vehicle mainly utilized for geostationary transfer missions?",
+          "options": [
+            "France & Germany",
+            "European Union member states",
+            "UK & Italy",
+            "US & Canada"
+          ],
+          "answer": "European Union member states"
+        }
+      ]
+    },
+    {
+      "category": "technology",
+      "subcategory": "gadget",
+      "fees": 400,
+      "winamount": 4000,
+      "img": "https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/entertainment.png",
+      "question": [
+        {
+          "id": 1,
+          "question": "Which South Korean electronics manufacturer introduced the Galaxy series smartphones?",
+          "options": ["LG", "Samsung", "HTC", "Sony Ericsson"],
+          "answer": "Samsung"
+        },
+        {
+          "id": 2,
+          "question": "What is the most widely used mobile phone operating system globally as of Q3 2021?",
+          "options": ["Windows Phone", "Blackberry OS", "Android", "iOS"],
+          "answer": "Android"
+        },
+        {
+          "id": 3,
+          "question": "Which Japanese multinational corporation manufactured the Xperia lineup of Android smartphones?",
+          "options": ["Panasonic", "NEC", "Sony", "Fujitsu"],
+          "answer": "Sony"
+        },
+        {
+          "id": 4,
+          "question": "Which Chinese telecommunications equipment and systems company produces Axon and P series smartphones?",
+          "options": ["Huawei", "ZTE", "Lenovo", "OPPO"],
+          "answer": "Huawei"
+        },
+        {
+          "id": 5,
+          "question": "Which Finnish communications company originally produced the Symbian platform before selling it off to Accenture in 2010?",
+          "options": ["Ericsson", "Nokia", "Siemens", "Philips"],
+          "answer": "Nokia"
+        },
+        {
+          "id": 6,
+          "question": "What is the common name for the wireless communication standard allowing short-range connections between Bluetooth devices?",
+          "options": [
+            "Bluetooth Classic",
+            "LE Bluetooth",
+            "Bluetooth Smart",
+            "Classic Wireless Profile"
+          ],
+          "answer": "Bluetooth Classic"
+        },
+        {
+          "id": 7,
+          "question": "Which app provides users access to millions of songs, podcasts, and videos via streaming services?",
+          "options": ["Netflix", "Spotify", "YouTube", "Facebook Messenger"],
+          "answer": "Spotify"
+        },
+        {
+          "id": 8,
+          "question": "What popular messaging application uses end-to-end encryption ensuring privacy of conversations between users?",
+          "options": [
+            "WhatsApp",
+            "Snapchat",
+            "Instagram Direct Messages",
+            "Telegram"
+          ],
+          "answer": "WhatsApp"
+        },
+        {
+          "id": 9,
+          "question": "Which gaming brand released the Nintendo Switch hybrid video game console combining portable and home consoles?",
+          "options": ["PlayStation", "Xbox", "SEGA", "Nintendo"],
+          "answer": "Nintendo"
+        },
+        {
+          "id": 10,
+          "question": "What is the latest version of Apple's iOS operating system as of November 2021?",
+          "options": ["iOS 13", "iOS 14", "iOS 15", "iOS 16"],
+          "answer": "iOS 15"
+        }
+      ]
+    },
+    {
+      "category": "technology",
+      "subcategory": "automobiles",
+      "fees": 400,
+      "winamount": 4000,
+      "img": "https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/entertainment.png",
+      "question": [
+        {
+          "id": 1,
+          "question": "What is the primary function of an Anti-lock Braking System (ABS) in a car?",
+          "options": [
+            "Increase stopping distance",
+            "Reduce engine power",
+            "Prevent wheels from locking during braking",
+            "Improve fuel efficiency"
+          ],
+          "answer": "Prevent wheels from locking during braking"
+        },
+        {
+          "id": 2,
+          "question": "What type of display technology is commonly used in modern smartphones?",
+          "options": [
+            "LCD (Liquid Crystal Display)",
+            "OLED (Organic Light-Emitting Diode)",
+            "Plasma",
+            "CRT (Cathode Ray Tube)"
+          ],
+          "answer": "OLED (Organic Light-Emitting Diode)"
+        },
+        {
+          "id": 3,
+          "question": "Which of the following is NOT a component of a computer's Central Processing Unit (CPU)?",
+          "options": [
+            "Control Unit (CU)",
+            "Arithmetic Logic Unit (ALU)",
+            "Graphics Processing Unit (GPU)",
+            "Random Access Memory (RAM)"
+          ],
+          "answer": "Graphics Processing Unit (GPU)"
+        },
+        {
+          "id": 4,
+          "question": "What is the name of the operating system developed by Google for smartphones and tablets?",
+          "options": ["iOS", "Windows Phone", "Android", "BlackBerry OS"],
+          "answer": "Android"
+        },
+        {
+          "id": 5,
+          "question": "What is the term used to describe a car that is powered by an electric motor and rechargeable batteries?",
+          "options": [
+            "Hybrid Electric Vehicle (HEV)",
+            "Plug-in Hybrid Electric Vehicle (PHEV)",
+            "Battery Electric Vehicle (BEV)",
+            "Fuel Cell Electric Vehicle (FCEV)"
+          ],
+          "answer": "Battery Electric Vehicle (BEV)"
+        },
+        {
+          "id": 6,
+          "question": "What is the function of a catalytic converter in a car's exhaust system?",
+          "options": [
+            "Increase engine power",
+            "Reduce harmful emissions",
+            "Improve fuel efficiency",
+            "Cool down the engine"
+          ],
+          "answer": "Reduce harmful emissions"
+        },
+        {
+          "id": 7,
+          "question": "What is the most commonly used wireless networking standard for connecting devices to the internet?",
+          "options": ["Bluetooth", "Wi-Fi", "Cellular", "Satellite"],
+          "answer": "Wi-Fi"
+        },
+        {
+          "id": 8,
+          "question": "What is the term used to describe technology that allows cars to drive themselves with minimal human input?",
+          "options": [
+            "Advanced Driver Assistance Systems (ADAS)",
+            "Autonomous Vehicles (AVs)",
+            "Connected Cars",
+            "Electric Vehicles (EVs)"
+          ],
+          "answer": "Autonomous Vehicles (AVs)"
+        },
+        {
+          "id": 9,
+          "question": "What is the term used to describe a computer program designed to steal personal information or disrupt computer systems?",
+          "options": ["Malware", "Software", "Hardware", "Firewall"],
+          "answer": "Malware"
+        },
+        {
+          "id": 10,
+          "question": "What is the name of the social media platform known for its short-form video content?",
+          "options": ["Facebook", "Twitter", "Instagram", "TikTok"],
+          "answer": "TikTok"
+        }
+      ]
+    },
+    {
+      "category": "history",
+      "subcategory": "gk",
+      "fees": 300,
+      "winamount": 3000,
+      "img": "https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/entertainment.png",
+      "question": [
+        {
+          "id": 1,
+          "question": "Which ancient civilization is known for building the Great Pyramids?",
+          "options": ["Mesopotamian", "Egyptian", "Roman", "Greek"],
+          "answer": "Egyptian"
+        },
+        {
+          "id": 2,
+          "question": "Who is considered the father of modern history?",
+          "options": [
+            "Herodotus",
+            "Thucydides",
+            "Edward Gibbon",
+            "Napoleon Bonaparte"
+          ],
+          "answer": "Edward Gibbon"
+        },
+        {
+          "id": 3,
+          "question": "What major event marked the end of World War I?",
+          "options": [
+            "Treaty of Versailles",
+            "Assassination of Archduke Franz Ferdinand",
+            "D-Day invasion of Normandy",
+            "Dropping of the atomic bomb on Hiroshima"
+          ],
+          "answer": "Treaty of Versailles"
+        },
+        {
+          "id": 4,
+          "question": "What is the name of the Renaissance movement that emphasized classical learning and human potential?",
+          "options": [
+            "Romanticism",
+            "Humanism",
+            "Enlightenment",
+            "Industrial Revolution"
+          ],
+          "answer": "Humanism"
+        },
+        {
+          "id": 5,
+          "question": "Which explorer is credited with discovering a new route to India by sailing west?",
+          "options": [
+            "Christopher Columbus",
+            "Vasco da Gama",
+            "Marco Polo",
+            "Ferdinand Magellan"
+          ],
+          "answer": "Christopher Columbus"
+        },
+        {
+          "id": 6,
+          "question": "What major event sparked the French Revolution?",
+          "options": [
+            "Storming of the Bastille",
+            "Declaration of the Rights of Man and of the Citizen",
+            "Reign of Terror",
+            "Napoleon's coup d'état"
+          ],
+          "answer": "Storming of the Bastille"
+        },
+        {
+          "id": 7,
+          "question": "What was the main ideological conflict during the Cold War?",
+          "options": [
+            "Capitalism vs. Communism",
+            "Democracy vs. Authoritarianism",
+            "Colonialism vs. Independence",
+            "Imperialism vs. Nationalism"
+          ],
+          "answer": "Capitalism vs. Communism"
+        },
+        {
+          "id": 8,
+          "question": "Who led the Indian independence movement and became the first Prime Minister of the Republic of India?",
+          "options": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "Subhash Chandra Bose",
+            "Sardar Vallabhbhai Patel"
+          ],
+          "answer": "Jawaharlal Nehru"
+        },
+        {
+          "id": 9,
+          "question": "Which major event marked the beginning of the Space Age?",
+          "options": [
+            "Launch of Sputnik 1",
+            "Moon landing of Apollo 11",
+            "First human spaceflight by Yuri Gagarin",
+            "Development of the International Space Station"
+          ],
+          "answer": "Launch of Sputnik 1"
+        },
+        {
+          "id": 10,
+          "question": "What major event led to the fall of the Berlin Wall and the reunification of Germany?",
+          "options": [
+            "World War I",
+            "World War II",
+            "The Cold War",
+            "The Cuban Missile Crisis"
+          ],
+          "answer": "The Cold War"
+        }
+      ]
+    },
+    {
+      "category": "history",
+      "subcategory": "place",
+      "fees": 300,
+      "winamount": 3000,
+      "img": "https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/entertainment.png",
+      "question": [
+        {
+          "id": 1,
+          "question": "What was the original name of Surat during the Hindu period (1500-1520 CE)?",
+          "options": ["Suryapur", "Suratgarh", "Taptigadh", "Mughalsarai"],
+          "answer": "Suryapur"
+        },
+        {
+          "id": 2,
+          "question": "What major river flows through Surat, contributing to its historical significance as a trading port?",
+          "options": ["Ganges", "Narmada", "Yamuna", "Tapti"],
+          "answer": "Tapti"
+        },
+        {
+          "id": 3,
+          "question": "Which European trading company established the Dutch Gardens in Surat during the 17th century?",
+          "options": [
+            "British East India Company",
+            "French East India Company",
+            "Dutch East India Company",
+            "Portuguese East India Company"
+          ],
+          "answer": "Dutch East India Company"
+        },
+        {
+          "id": 4,
+          "question": "In which century did the British capture Surat, marking the start of the colonial period in the city's history?",
+          "options": [
+            "16th century",
+            "17th century",
+            "18th century",
+            "19th century"
+          ],
+          "answer": "18th century"
+        },
+        {
+          "id": 5,
+          "question": "What nickname did Surat earn due to its prominent role in the diamond polishing and cutting industry?",
+          "options": [
+            "Textile City of India",
+            "Chemical Hub of Gujarat",
+            "Diamond City of India",
+            "Educational Center of Western India"
+          ],
+          "answer": "Diamond City of India"
+        },
+        {
+          "id": 6,
+          "question": "Which of the following structures was built in Surat during the Mughal era to accommodate traders and travelers?",
+          "options": [
+            "Surat Castle",
+            "Dutch Gardens",
+            "Mughal Sarai",
+            "Surat Mission Hospital"
+          ],
+          "answer": "Mughal Sarai"
+        },
+        {
+          "id": 7,
+          "question": "What is the name of the oldest civic body in India, established in Surat during the 19th century?",
+          "options": [
+            "Ahmedabad Municipal Corporation",
+            "Mumbai Municipal Corporation",
+            "Chennai Municipal Corporation",
+            "Surat Municipal Corporation"
+          ],
+          "answer": "Surat Municipal Corporation"
+        },
+        {
+          "id": 8,
+          "question": "Which major challenge is Surat currently facing due to its rapid development and urbanization?",
+          "options": [
+            "Limited access to education and healthcare",
+            "High unemployment rate",
+            "Environmental concerns",
+            "Lack of historical preservation"
+          ],
+          "answer": "Environmental concerns"
+        },
+        {
+          "id": 9,
+          "question": "What is the name of the renowned medical facility established in Surat in 1812 CE?",
+          "options": [
+            "Surat City Hospital",
+            "Tapti Valley Medical College",
+            "Surat Mission Hospital",
+            "Gujarat Institute of Medical Sciences"
+          ],
+          "answer": "Surat Mission Hospital"
+        },
+        {
+          "id": 10,
+          "question": "In addition to its diamond industry, what other major sectors contribute to Surat's economic diversification?",
+          "options": [
+            "Tourism and hospitality",
+            "Agriculture and farming",
+            "Textiles and chemicals",
+            "Information technology and services"
+          ],
+          "answer": "Textiles and chemicals"
+        }
+      ]
+    },
+    {
+      "category": "brain-teasers",
+      "subcategory": "logical reasoning",
+      "fees": 300,
+      "winamount": 3000,
+      "img": "https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/entertainment.png",
+      "question": [
+        {
+          "id": 1,
+          "question": "I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",
+          "options": ["A map", "A globe", "A painting", "A dream"],
+          "answer": "A map"
+        },
+        {
+          "id": 2,
+          "question": "What is always coming, but never arrives?",
+          "options": ["Tomorrow", "Next week", "The future", "Yesterday"],
+          "answer": "Tomorrow"
+        },
+        {
+          "id": 3,
+          "question": "What has to be broken before you can use it?",
+          "options": ["An egg", "A promise", "A record", "A heart"],
+          "answer": "An egg"
+        },
+        {
+          "id": 4,
+          "question": "What gets wetter as it dries?",
+          "options": ["A towel", "The ground", "A sponge", "A tear"],
+          "answer": "A towel"
+        },
+        {
+          "id": 5,
+          "question": "You have two coins that add up to $1.10. One of the coins is not a dime. What are the two coins?",
+          "options": [
+            "A quarter and a nickel",
+            "A dollar and a dime",
+            "A fifty-cent piece and a dime",
+            "There is no solution"
+          ],
+          "answer": "A quarter and a nickel"
+        },
+        {
+          "id": 6,
+          "question": "What has one head, one foot, and four legs?",
+          "options": ["A bed", "A compass", "A table", "A person sleeping"],
+          "answer": "A bed"
+        },
+        {
+          "id": 7,
+          "question": "What is full of holes but still holds water?",
+          "options": ["A sponge", "A sieve", "A net", "A cloud"],
+          "answer": "A sponge"
+        },
+        {
+          "id": 8,
+          "question": "I am lighter than a feather, but no man can hold me for five minutes. What am I?",
+          "options": ["Your breath", "A thought", "A shadow", "Silence"],
+          "answer": "Your breath"
+        },
+        {
+          "id": 9,
+          "question": "What has an eye but cannot see?",
+          "options": ["A needle", "A button", "A potato", "A hurricane"],
+          "answer": "A needle"
+        },
+        {
+          "id": 10,
+          "question": "What is always in front of you but cannot be seen?",
+          "options": ["The future", "Your nose", "The wind", "Your thoughts"],
+          "answer": "The future"
         }
       ]
     }

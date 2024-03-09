@@ -197,6 +197,105 @@
           "answer": "European Union member states"
         }
       ]
+    },
+        {
+      "category": "history",
+      "subcategory": "7 wonders",
+      "fees": 200,
+      "winamount": 2000,
+      "img": "https://raw.githubusercontent.com/mithilAlgo/Questionjson/main/history.png",
+      "question": [
+        {
+          "id": 1,
+          "question": "Which is the sole survivor among the Seven Wonders of the Ancient World?",
+          "options": [
+            "Pyramids of Giza",
+            "Hanging Gardens of Babylon",
+            "Statue of Zeus",
+            "Colossus of Rhodes"
+          ],
+          "answer": "Pyramids of Giza"
+        },
+        {
+          "id": 2,
+          "question": "On which continent do four of the Seven Wonders reside?",
+          "options": ["Africa", "Asia", "Australia", "Europe"],
+          "answer": "Asia"
+        },
+        {
+          "id": 3,
+          "question": "Which three of the Seven Wonders share proximity to water bodies?",
+          "options": [
+            "Hanging Gardens of Babylon",
+            "Colossus of Rhodes",
+            "Lighthouse of Alexandria",
+            "Temple of Artemis at Ephesus",
+            "Great Pyramid of Giza"
+          ],
+          "answer": [
+            "Hanging Gardens of Babylon",
+            "Colossus of Rhodes",
+            "Lighthouse of Alexandria"
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Which Wonder sits nearest to the Equator?",
+          "options": [
+            "Temple of Artemis at Ephesus",
+            "Pyramids of Giza",
+            "Colossus of Rhodes",
+            "Hanging Gardens of Babylon"
+          ],
+          "answer": "Temple of Artemis at Ephesus"
+        },
+        {
+          "id": 5,
+          "question": "Which Wonder stands apart, made of stone blocks without clay mortar?",
+          "options": [
+            "Pyramids of Giza",
+            "Hanging Gardens of Babylon",
+            "Statue of Zeus",
+            "Colossus of Rhodes"
+          ],
+          "answer": "Pyramids of Giza"
+        },
+        {
+          "id": 6,
+          "question": "From which continent do all the Seven Wonders originate?",
+          "options": ["Africa", "Americas", "Asia", "Europe"],
+          "answer": "Asia"
+        },
+        {
+          "id": 7,
+          "question": "Which material makes up most of the Great Pyramid of Giza?",
+          "options": ["Clay bricks", "Marble", "Granite", "Limestone"],
+          "answer": "Limestone"
+        },
+        {
+          "id": 8,
+          "question": "Where was the Temple of Artemis located?",
+          "options": ["Turkey", "Syria", "Iran", "Iraq"],
+          "answer": "Turkey"
+        },
+        {
+          "id": 9,
+          "question": "Why is the Colossus of Rhodes considered one of the Seven Wonders even though it no longer exists?",
+          "options": [
+            "Because it influenced modern engineering",
+            "Because it had a profound cultural impact",
+            "Because of its sheer size",
+            "Because it inspired artists worldwide"
+          ],
+          "answer": "Because of its sheer size"
+        },
+        {
+          "id": 10,
+          "question": "What natural element significantly contributed to the destruction of the Hanging Gardens of Babylon?",
+          "options": ["Volcanic eruption", "Earthquake", "Flood", "Fire"],
+          "answer": "Earthquake"
+        }
+      ]
     }
   ]
 }
